@@ -1,0 +1,2 @@
+alert ("pirveli")
+alert ("meore")
