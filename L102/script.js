@@ -1,2 +1,1 @@
-alert ("pirveli")
-alert ("meore")
+alert ("pirveli");
