@@ -1,7 +1,7 @@
 var admin;
 
-var name= 'daviti'
+var name= 'daviti';
 
-name=admin
+admin=name;
 
-alert ("admin")
+alert (admin);
